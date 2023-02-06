@@ -1,7 +1,6 @@
 # user_location
 
-A new Flutter project.
-
+A mobile application that provide the location using Geolocator
 ## Getting Started
 
 This project is a starting point for a Flutter application.
