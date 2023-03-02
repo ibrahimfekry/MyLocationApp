@@ -1,6 +1,9 @@
 # user_location
 
-A mobile application that provide the location using Geolocator
+A mobile application that provides the location of the user using Geolocator service , 
+Asks the user permission first to enable the location permission then gets 
+accurate location of the user 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
